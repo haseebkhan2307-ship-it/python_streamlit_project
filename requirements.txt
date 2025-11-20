@@ -3,5 +3,6 @@ numpy
 Pillow
 matplotlib
 yfinance
-tensorflow-cpu>=2.11.0
+tensorflow
+
 
