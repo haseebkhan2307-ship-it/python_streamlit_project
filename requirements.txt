@@ -1,6 +1,7 @@
-streamlit>=1.0
+streamlit
 numpy
 Pillow
 matplotlib
-# Use tensorflow-cpu for a smaller, CPU-only install. If you have a GPU and want GPU support, replace with `tensorflow`.
+yfinance
 tensorflow-cpu>=2.11.0
+
